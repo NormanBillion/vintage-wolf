@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from '../Component/Navbar'
 
-const About = () => {
+function RedWine() {
   return (
     <div>
-        <Navbar/>
-      This is About!
+      <Navbar/>
+      here is your favourite Wine!
     </div>
   )
 }
 
-export default About
+export default RedWine

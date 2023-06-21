@@ -1,0 +1,12 @@
+.left
+{
+    position: absolute;
+    right: 0;
+}
+img{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+.navbar-collapse{
+  margin-left: 55rem;
+}
